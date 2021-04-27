@@ -1,4 +1,4 @@
-# Preparing_for_Influenza_Season
+# Preparing_for_Influenza_Season_Project
 ## Objective
 To help a medical staffing agency that provides temporary workers to clinics
 and hospitals on an as-needed basis. The analysis will help plan for influenza
