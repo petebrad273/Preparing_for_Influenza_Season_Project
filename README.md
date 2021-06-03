@@ -8,5 +8,5 @@ staffing needs across the country.
 
 ## What's Included?
 1. Project Brief
-2. [Link to Tableau Storyboard](https://public.tableau.com/shared/N9C6ZZN8S?:display_count=n&:origin=viz_share_link)
+2. [Link to Tableau Storyboard](https://public.tableau.com/views/PlanningforInfluenzaSeason/PreparingforInfluenzaSeason?:language=en-US&:display_count=n&:origin=viz_share_link)
 3. [Link to Video Presentation](https://www.screencast.com/t/2rDmD8RD)
